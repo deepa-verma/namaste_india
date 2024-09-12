@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_700">#87CBEA</color>
+    <color name="blue_500">#59C3F4</color>
+    <color name="blue_200">#03A9F4</color>
+    <color name="black">#FF000000</color>
+    <color name="lite_grey">#ECE4E4</color>
+    <color name="lite_grey1">#EFEEEE</color>
+    <color name="grey">#959090</color>
+    <color name="dark_grey">#5E5B5B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBarColor">#03A9F4</color>
+</resources>
